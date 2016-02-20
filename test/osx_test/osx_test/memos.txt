@@ -1,0 +1,3 @@
+# realm
+/Users/mac/Library/Application Support/org.livetill150.osx-test
+pushd "/Users/mac/Library/Application Support/org.livetill150.osx-test"
